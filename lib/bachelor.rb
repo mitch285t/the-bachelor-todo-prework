@@ -16,7 +16,7 @@ def get_first_name_of_season_winner(data, season)
       
 end 
 def count_contestants_by_hometown(data, hometown)
-      data.values.flatten.select {|person| person["hometown"] == hometown.count}
+      
 end
 
 def get_occupation(data, hometown)
