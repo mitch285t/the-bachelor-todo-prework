@@ -48,4 +48,6 @@ def get_average_age_for_season(data, season)
         age = value.to_f
       end 
     end 
+  end 
+  
         
