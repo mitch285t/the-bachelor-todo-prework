@@ -42,5 +42,6 @@ def get_average_age_for_season(data, season)
   age = 0 
   contestant_number = 0 
   data.each do |key, value|
-    
+    if key == "age"
+      
 end
