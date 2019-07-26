@@ -17,7 +17,8 @@ def get_first_name_of_season_winner(data, season)
 end 
 def count_contestants_by_hometown(data, hometown)
       i = 0 
-      data.each do |seasons, contestants|
+      data.each do |season, contestants|
+        contestant.each do 
         
 end
 
